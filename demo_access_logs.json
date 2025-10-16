@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2025-10-16T08:29:23.153855",
+    "plate_hash": "979ae4c32c826f265c49c0b17432ffb18c1bccabc79cede66a99984403fc4ae4",
+    "authorized": true,
+    "confidence": 77.0
+  },
+  {
+    "timestamp": "2025-10-16T08:29:23.383306",
+    "plate_hash": "35d54982e95830007a197401ba5dd6e5554bc8334510918682e3b8d0be6b90a4",
+    "authorized": true,
+    "confidence": 83.0
+  },
+  {
+    "timestamp": "2025-10-16T08:29:23.519535",
+    "plate_hash": "35d54982e95830007a197401ba5dd6e5554bc8334510918682e3b8d0be6b90a4",
+    "authorized": true,
+    "confidence": 85.0
+  },
+  {
+    "timestamp": "2025-10-16T08:29:23.650394",
+    "plate_hash": "35d54982e95830007a197401ba5dd6e5554bc8334510918682e3b8d0be6b90a4",
+    "authorized": true,
+    "confidence": 89.0
+  },
+  {
+    "timestamp": "2025-10-16T08:29:23.826349",
+    "plate_hash": "a670344f99ceea3a7c9e52c4d5b082bb980eb678d94216d7051d999b28d54b8a",
+    "authorized": false,
+    "confidence": 90.0
+  },
+  {
+    "timestamp": "2025-10-16T08:29:23.932921",
+    "plate_hash": "a670344f99ceea3a7c9e52c4d5b082bb980eb678d94216d7051d999b28d54b8a",
+    "authorized": false,
+    "confidence": 92.0
+  },
+  {
+    "timestamp": "2025-10-16T08:29:24.034067",
+    "plate_hash": "a670344f99ceea3a7c9e52c4d5b082bb980eb678d94216d7051d999b28d54b8a",
+    "authorized": false,
+    "confidence": 84.0
+  }
+]
